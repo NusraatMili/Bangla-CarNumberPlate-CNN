@@ -20,6 +20,15 @@ and outputs the full plate number in Bangla digits.
 
 ---
 
+## 📸 Demo
+
+| Input Plate | Predicted Output |
+|:-----------:|:----------------:|
+| ![plate](images/test_image.png) | ![result](images/result.png) |
+
+
+---
+
 ## ⚙️ How It Works
 Plate Image (grayscale)
 ↓
