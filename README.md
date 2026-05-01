@@ -113,8 +113,8 @@ These are the critical mistakes to avoid when building a similar system:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/NusraatMili/Bangla-NumberPlate-CNN
-cd Bangla-NumberPlate-CNN
+git clone https://github.com/NusraatMili/Bangla-CarNumberPlate-CNN
+cd Bangla-CarNumberPlate-CNN
 ```
 
 ### 2. Install dependencies
@@ -139,7 +139,7 @@ dataset/
 
 ### 4. Open the notebook
 ```bash
-jupyter notebook bangla_plate_cnn.ipynb
+jupyter notebook Bangla_CarNumberPlate_CNN.ipynb
 ```
 - Run **1st Part** cells to train the model
 - Update `img_path` in **2nd part** to point to your test plate image
@@ -151,9 +151,8 @@ jupyter notebook bangla_plate_cnn.ipynb
 
 | File | Description |
 |------|-------------|
-| `bangla_plate_cnn.ipynb` | Full Jupyter notebook — training and prediction |
-| `bangla_plate_cnn_report.docx` | Complete technical report (design, implementation, results) |
-| `test/car3.png` | Sample test plate image |
+| `Bangla_CarNumberPlate_CNN.ipynb` | Full Jupyter notebook — training and prediction |
+| `images/` | Sample test plate, result, training accuracy,model summary images |
 | `dataset/README.md` | Dataset folder structure guide |
 
 ---
