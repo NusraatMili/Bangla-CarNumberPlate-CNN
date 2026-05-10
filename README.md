@@ -24,7 +24,7 @@ and outputs the full plate number in Bangla digits.
 
 | Input Plate | Predicted Output |
 |:-----------:|:----------------:|
-| ![plate](images/test_image.png) | ![result](images/result.png) |
+| ![plate](images/test_image.png) | ![result](images/output.png) |
 
 
 ---
